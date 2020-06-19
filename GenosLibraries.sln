@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenosTests", "GenosTests\GenosTests.csproj", "{6348D423-1204-4D75-99D2-56EFDDDF551C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Textes", "Textes\Textes.csproj", "{08366CFC-6635-4B57-A4F8-CC28A630264F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenosCore", "GenosCore\GenosCore.csproj", "{1605EB84-39DA-4A23-A491-52FDCBF2F51E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6348D423-1204-4D75-99D2-56EFDDDF551C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6348D423-1204-4D75-99D2-56EFDDDF551C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6348D423-1204-4D75-99D2-56EFDDDF551C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6348D423-1204-4D75-99D2-56EFDDDF551C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08366CFC-6635-4B57-A4F8-CC28A630264F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08366CFC-6635-4B57-A4F8-CC28A630264F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08366CFC-6635-4B57-A4F8-CC28A630264F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08366CFC-6635-4B57-A4F8-CC28A630264F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1605EB84-39DA-4A23-A491-52FDCBF2F51E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1605EB84-39DA-4A23-A491-52FDCBF2F51E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1605EB84-39DA-4A23-A491-52FDCBF2F51E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1605EB84-39DA-4A23-A491-52FDCBF2F51E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA55F87C-3B78-4D6A-9AA1-150E86A33E8B}
+	EndGlobalSection
+EndGlobal
